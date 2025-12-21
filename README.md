@@ -19,8 +19,8 @@
 # Программы
 Программы написаны на языке Python.
 - Программа для [автопилота](https://github.com/anarhist0666/luna-9/blob/main/autopilot.py)
-- Программа для [получения данных с KSP]()
-- Программа для [построения графика на основе математической модели]()
+- Программа для [получения данных с KSP](https://github.com/anarhist0666/luna-9/blob/main/log_ksp.py)
+- Программа для [построения графика на основе математической модели](https://github.com/anarhist0666/luna-9/blob/main/varkt.py)
 
 # Ссылка на материалы проекта и отчет
 [https://drive.google.com/drive/folders/1ybN2JW-I-9gA7FWISxl-wtYSrI0drk7_]()
