@@ -23,4 +23,4 @@
 - Программа для [построения графика на основе математической модели](https://github.com/anarhist0666/luna-9/blob/main/varkt.py)
 
 # Ссылка на материалы проекта и отчет
-[https://drive.google.com/drive/folders/12RWJDdAEOnw3ch_Rjf5ePM7IT7tBiL6x_](https://drive.google.com/drive/folders/12RWJDdAEOnw3ch_Rjf5ePM7IT7tBiL6x)
+[https://drive.google.com/drive/folders/12RWJDdAEOnw3ch_Rjf5ePM7IT7tBiL6x?usp=sharing_](https://drive.google.com/drive/folders/12RWJDdAEOnw3ch_Rjf5ePM7IT7tBiL6x?usp=sharing)
